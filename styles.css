@@ -9,7 +9,6 @@ body {
     color: #aaa;
     width: 80%;
     margin: 30px auto;
-    border: 1px dashed black;
 }
 
 #display-container {
@@ -35,7 +34,6 @@ body {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    border: 1px dashed black;
     width: 70%;
     margin: 10px auto;
 }
@@ -56,6 +54,6 @@ body {
     min-height: 50px;
     margin: 2px;
     padding: 2px;
-    border: 1px dashed black;
+    border: 1px solid #bbb;
     background-color: white;
 }
